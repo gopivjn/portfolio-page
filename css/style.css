@@ -9,7 +9,14 @@ body {
     background-position: center bottom;
     background-repeat:repeat-x;
     overflow: hidden;
+    padding-left: 130px;
+    padding-right: 130px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
+.copyright{
+    margin-top: 300px;
+text-align:right;}
 
 .about{
     float:left;
@@ -139,6 +146,9 @@ ul.socialicons{
     position: relative;
     padding-left:130px ;
     padding-right: 130px;
+    margin-left: 180px;
+    margin-right: 180px;
+    
 }
 
 .tabs{
@@ -164,7 +174,7 @@ ul.socialicons{
 }
 
 .tabs li.active{
-    background:url(..//img/tab-hover.png) no-repeat;
+    background:url(img/tab-hover.png) no-repeat;
 }
 .tabs li.active a{
     color: #cf455c;
