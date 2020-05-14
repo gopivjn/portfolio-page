@@ -17,6 +17,11 @@ a , a:hover {
     background-color: white;
 }
 
+#contact img{
+    width: 860px;
+    height: auto;
+}
+
 
 #profile {
     background-color: #cf455c;
