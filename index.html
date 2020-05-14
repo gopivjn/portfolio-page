@@ -3,10 +3,14 @@
     <head>
         <meta charset="UTF-8">
         <title> Document </title>
+        <!-- reset all list elements - bullets -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+        <!-- adding font family -->
         <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&family=Roboto+Condensed:ital,wght@0,400;1,300;1,400&display=swap" rel="stylesheet">
+        <!-- adding font awesome icons cdn -->
         <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+        <!-- adding bootstrap css -->
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel=“stylesheet”>
         <link rel="stylesheet" href="./css/style.css">
     </head>
@@ -19,7 +23,7 @@
                 <h4>GRAPHIC & WEB DESIGNER</h4>
             </div>
 
-            <div class="social-icons">
+            <div class="social-icons-container">
                  <span class="social-text">
                     <button class="pulse-button">
                         <i class="fa fa-share"></i>
@@ -51,8 +55,8 @@
 
                         </ul>
                     </div>
-                    <h1>GOPINATH VIJAYAN</h1>
-                    <h3>GRAPHIC & WEB DESIGNER</h3>
+                    <h1> GOPINATH VIJAYAN</h1>
+                    <H3> GRAPHIC AND WEB DESIGNER</H3>
                     <br>
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -75,23 +79,62 @@
 
             <nav class="menu">
                 <ul class="tabs">
-                    <li> <a href="" class="tab-profile">
+                    <li class="tmenu">
+                        <a href="#profile" class="tab-profile active">
                             <i> <i class="fa fa-user"></i></i>PROFILE
                         </a>
-
-                        <a href="">
-                            <i> <i class="fa fa-user"></i></i>RESUME
-                        </a>
-
-                        <a href="">
-                            <i> <i class="fa fa-user"></i></i>PORTFOLIO
-                         </a>
-                        <a href="">
-                            <i> <i class="fa fa-user"></i></i>CONTACT
-                        </a>
+                    </li>   
+                    <li class="tmenu">
+                        <a href="#resume">
+                            <i class="fa fa-telegram"></i></i>RESUME</a>
                     </li>
+                    <li class="tmenu">
+                        <a href="#portfolio">
+                            <i> <i class="fa fa-eercast"></i></i>PORTFOLIO</a>
+                    </li>
+                    <li class="tmenu">
+                        <a href="#contact">
+                            <i> <i class="fa fa-telegram"></i></i>CONTACT</a>
+                    </li>
+                
                 </ul>
             </nav>
+
+            <section id="resume">
+                <p> 
+                Lorem, ipsum dolor sit amet consectetur adipisicing
+                 elit. Deserunt ipsum, possimus saepe placeat minus 
+                 suscipit quis illum quam sed mollitia a, 
+                 quas odit hic, soluta nesciunt. Consectetur at sequi 
+                 quas natus, consequuntur distinctio veniam aut 
+                 ullam nemo earum asperiores obcaecati maxime sint 
+                 reiciendis iure voluptates, et voluptatem. Doloribus, 
+                 mollitia odio!</p>        
+            </section>
+
+            <section id="portfolio">
+                <p> 
+                Lorem, ipsum dolor sit amet consectetur adipisicing
+                 elit. Deserunt ipsum, possimus saepe placeat minus 
+                 suscipit quis illum quam sed mollitia a, 
+                 quas odit hic, soluta nesciunt. Consectetur at sequi 
+                 quas natus, consequuntur distinctio veniam aut 
+                 ullam nemo earum asperiores obcaecati maxime sint 
+                 reiciendis iure voluptates, et voluptatem. Doloribus, 
+                 mollitia odio!</p>        
+            </section>
+
+            <section id="contact">
+                <p> 
+                Lorem, ipsum dolor sit amet consectetur adipisicing
+                 elit. Deserunt ipsum, possimus saepe placeat minus 
+                 suscipit quis illum quam sed mollitia a, 
+                 quas odit hic, soluta nesciunt. Consectetur at sequi 
+                 quas natus, consequuntur distinctio veniam aut 
+                 ullam nemo earum asperiores obcaecati maxime sint 
+                 reiciendis iure voluptates, et voluptatem. Doloribus, 
+                 mollitia odio!</p>        
+            </section>
 
         </section>
     
@@ -99,8 +142,13 @@
             <div class="copyright">Copyright &copy; 2020 Gopinath Vijayan </div>
         </footer>
     </section>
-        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-        <script src="js/main.js"></script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+        <script type="text/javascript" src="scripts/jquery-1.4.4.min.js"></script>
+        <script type="text/javascript" src="plugin/jrate/jquery/jRating.jquery.js"></script>
+        <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.easytabs/3.2.0/jquery.easytabs.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/1.5.25/jquery.isotope.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.caroufredsel/6.2.1/jquery.carouFredSel.packed.js"></script>
     </body>
 </html>
