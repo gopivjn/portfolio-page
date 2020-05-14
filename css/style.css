@@ -18,7 +18,7 @@ a , a:hover {
 }
 
 #contact img{
-    width: 860px;
+    width: 860px !important;
     height: auto;
 }
 
