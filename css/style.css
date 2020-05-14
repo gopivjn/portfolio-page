@@ -1,7 +1,6 @@
 body {
-    background-image: url(..//img/bg-body.jpg);
-    width: 1440px;
-}
+        background: url(../img/bg-body.jpg);
+    }
 
 a , a:hover {
     text-decoration: none;

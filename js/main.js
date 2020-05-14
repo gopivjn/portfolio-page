@@ -197,3 +197,4 @@ $('#green-color').click(function(e){
 $(".setting-icon").click(function(){
 	$(".color-box").toggleClass("main");
 });
+
