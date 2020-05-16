@@ -164,6 +164,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
     font-size: 17px;
     font-weight: 500;
     padding: 10px 0px 5px;
+    color:white;
 }
 .ex-box h5 {
     font-size: 17px;
@@ -274,7 +275,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
 .address-right-box ul li {
     list-style: none;
     display: flex;
-    color: #908e8e;
+    color: #50514F;
     margin-bottom: 21px;
     font-size: 13px;
     font-weight: 600;
@@ -405,11 +406,11 @@ button#green-color {
 }
 #yellow .ex-box h2 {
     background: #ff9f1c;
-    color: #cfdbd5;
+    color: #50514F;
 }
 #yellow .ex-heading h2 {
     background: #ff9f1c;
-    color: #cfdbd5;
+    color: #50514F;
 }
 #yellow .right-skills:after,#yellow .right-skills:before {
     background: #ff9f1c;
@@ -421,7 +422,7 @@ button#green-color {
     color: #ff9f1c;
 }
 #yellow .left-name.bg-color-1 h5 {
-    color: #cfdbd5;
+    color: #50514F;
 	background-color: #ff9f1c;
 }
 /* yellow color */
@@ -514,11 +515,11 @@ button#green-color {
 }
 #green .ex-box h2 {
     background: #70c1b3;
-    color: #cfdbd5
+    color: #50514F;
 }
 #green .ex-heading h2 {
     background: #70c1b3;
-    color: #cfdbd5;
+    color: #50514F;
 }
 #green .text-color {
     color: #70c1b3;
@@ -527,7 +528,7 @@ button#green-color {
     color: #70c1b3;
 }
 #green .left-name.bg-color-1 h5 {
-	color: #cfdbd5;
+	color: #50514F;
 	background-color: #70c1b3;
 }
 /* green color */
