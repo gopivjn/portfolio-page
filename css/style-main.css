@@ -43,7 +43,7 @@ ul.socialicons.main {
     box-shadow: 0 0 0 0 rgb(101, 100, 100);    
     background-color: #50514f;
     cursor: pointer;
-     color: #cf455c;
+     color: #457b9d;
      font-size: 20px;
         
 }
@@ -85,7 +85,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
     font-family: 'Oswald', sans-serif !important;
 }
 .left-name h2 span {
-    color: #cf455c;
+    color: #457b9d;
     float: left;
     width: 100%;
     margin-top: -11px;
@@ -100,7 +100,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
     margin: 10px 0px 20px;
     border-radius: 50px;
 	color: #cfdbd5;
-	background-color:#cf455c;
+	background-color:#457b9d;
 }
 .left-name p {
     color: #cfdbd5;
@@ -116,7 +116,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
     font-size: 14px;
 }
 .text-color {
-    color: #cf455c;
+    color: #457b9d;
 }
 /* .right-skills:after,.right-skills:before { */
     /* content: ""; */
@@ -139,7 +139,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
     text-transform: uppercase;
 }
 .ex-heading h2 {
-    background: #cf455c;
+    background: #457b9d;
     color: #cfdbd5;
     font-weight: 600;
     letter-spacing: 5px;
@@ -147,7 +147,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
     font-size: 25px;
 }
 .ex-box h2 {
-    background: #cf455c;
+    background: #457b9d;
     color: #cfdbd5;
     font-size: 17px;
    line-height: 17px;
@@ -197,7 +197,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
     float: right;
     padding: 0px 36px;
     position: relative;
-    border-left: 0px solid #cf455c;
+    border-left: 0px solid #457b9d;
 }
 .heading-skills h3 {
     color: #50514f;
@@ -264,7 +264,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
      font-weight: 400;
 }
 .qr-box {
-    background: #cf455c;
+    background: #457b9d;
     padding: 20px;
 }
 .address-right-box ul li {
@@ -296,7 +296,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
 }
 .address-right-box i.fa {
     margin-right: 15px;
-    color: #cf455c;
+    color: #457b9d;
     font-size: 20px;
 }
 .col-md-6.no-padding.bg-color-left {
@@ -316,7 +316,7 @@ h6{font-family: 'Oswald', sans-serif!important;}
     font-weight: 700;     
     width: 68px;
     height: 68px;
-    border: 5px solid #cf455c;
+    border: 5px solid #457b9d;
     border-radius: 50%;
     text-align: center;
     padding-top: 8px;
@@ -336,14 +336,14 @@ h6{font-family: 'Oswald', sans-serif!important;}
     top: 68px;
 }
 .bg-warning {
-    background-color: #cf455c!important;
+    background-color: #457b9d!important;
 }
 button.setting-icon {
     height: 30px;
     width: 30px;
     position: relative;
     top: 2px;
-    background: #cf455c;
+    background: #457b9d;
     color: white;
     border: 2px solid white;
 }
@@ -369,7 +369,7 @@ button#yellow-color {
     border: 2px solid white;
 }
 button#red-color {
-    background: #f25f5c;
+    background: #cf455c;
     border: 2px solid white;
 }
 button#blue-color {
@@ -427,37 +427,37 @@ button#green-color {
 /* yellow color */
 /* red color */
 #red .left-name h2 span {
-    color: #f25f5c;
+    color: #cf455c;
 }
 #red .bg-warning {
-    background-color: #f25f5c!important;
+    background-color: #cf455c!important;
 }
 #red .sn {
-    border: 5px solid #f25f5c;
+    border: 5px solid #cf455c;
 }
 #red .address-right-box i.fa {
-    color: #f25f5c;
+    color: #cf455c;
 }
 #red .qr-box {
-    background: #f25f5c;
+    background: #cf455c;
 }
 #red .ex-box h2 {
-    background: #f25f5c;
+    background: #cf455c;
     color: #fdf9f9;
 }
 #red .ex-heading h2 {
-    background: #f25f5c;
+    background: #cf455c;
     color: #f9f9f9;
 }
 #red .text-color {
-    color: #f25f5c;
+    color: #cf455c;
 }
 #red .left-name h2 span {
-    color: #f25f5c;
+    color: #cf455c;
 }
 #red .left-name.bg-color-1 h5 {
     color: #cfdbd5;
-	background-color: #f25f5c;
+	background-color: #cf455c;
 }
 /* red color */
 /* blue blue */
@@ -602,7 +602,7 @@ button#green-color {
   opacity: 1;
 }
 .form-control:focus {
-    border-color: #cf455c;
+    border-color: #457b9d;
     box-shadow: 0 0 0 0rem rgba(0,123,255,.25);
 }
 .col-md-6.no-padding.bg-color-left {
