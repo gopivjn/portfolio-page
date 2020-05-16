@@ -258,12 +258,12 @@ margin-bottom: 5px;
 }
 
 #portfolio-list{
-    width:820px;
+    width:820px; 
     overflow: hidden;
 }
 
 #portfolio-list li{
-    float: left;
+    /* float: left; */
     margin-right: 25px;
     text-align: center;
     background-color: #fbfbfb;

@@ -164,7 +164,12 @@ h6{font-family: 'Oswald', sans-serif!important;}
     font-size: 17px;
     font-weight: 500;
     padding: 10px 0px 5px;
-    
+}
+.ex-box h5 {
+    font-size: 17px;
+    font-weight: 500;
+    padding: 10px 0px 5px;
+    color:white;
 }
 .ex-box p {
     font-size: 13px;
@@ -208,42 +213,50 @@ h6{font-family: 'Oswald', sans-serif!important;}
     line-height: 22px;
     margin-left: -22px;
 }
-.mt-25{margin-top:25px;}
-.intetst-box i.fa {
+.mt-25 {
+    margin-top:50px;
+}
+.interest-box i.fa {
     font-size: 36px;
     color: #fff;
     text-align: center;
 }
-.intetst-icons {
+.interest-icons {
     color: #fff;
     text-align: center;    
-    margin-bottom: 19px;
     margin-left: -33px;
+    margin-top: 20px;
+    /* border-bottom: 1px solid white; */
 }
-.intetst-icons h5 {
+.interest-icons h5 {
     font-size: 14px;
     letter-spacing: 2px;
     font-weight: normal;
     text-transform: uppercase;
     color: white;
+    padding-top: 8px;
+    padding-bottom: 20px;
 }
-.eduction-right {
+
+/* .col-md-12 h3 {
+    border-bottom: 1px solid red;
+} */
+.education-right {
     display: inline-block;
-    padding: 35px 35px 35px 35px;
-    margin-left: 34px;
+    padding: 35px 35px 35px 0px;
 }
-.eduction-right .ex-box {
+.education-right .ex-box {
     padding: 27px 27px 0px 0px;
 }
-.eduction-right h3 {
+.education-right h3 {
     padding-bottom: 0px;
 }
-.eduction-right .ex-box h4 {
+.education-right .ex-box h4 {
     color: #fff;
     letter-spacing: 2px;
     font-weight: 400;
 }
- .eduction-right .ex-box p {
+.education-right .ex-box p {
     color: #fff;
      font-weight: 400;
 }
@@ -263,9 +276,9 @@ h6{font-family: 'Oswald', sans-serif!important;}
     font-size: 13px;
     font-weight: 600;
 }
-.address-qr-right{padding: 35px 35px 0px 35px;}
+.address-qr-right{padding: 35px 35px 0px 0px;}
 .address-right-box {
-    padding: 0px 30px;
+    padding: 0px 0px 40px 0px;
 }
 .qr-box img {
     width: 169px;
